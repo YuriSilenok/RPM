@@ -1,3 +1,3 @@
-print(3 + 3 * 3)
+x = 3 + 3 * 3
 if __name__ == '__main__':
-    print('hello world')
+    print(x)
